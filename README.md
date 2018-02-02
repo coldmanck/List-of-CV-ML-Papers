@@ -3,6 +3,7 @@ My curated list of CV/ML papers.
 
 ## Computer Vision
 ### Image Classification
+- J. Deng, W. Dong, R. Socher, L.-J. Li, K. Li, and L. Fei-Fei. ImageNet: A Large-Scale Hierarchical Image Database. In CVPR, 2009.
 - A. Krizhevsky, I. Sutskever, and G. E. Hinton. Imagenet classification with deep convolutional neural networks. In NIPS, 2012.
 - K. He, X. Zhang, S. Ren, and J. Sun. Deep residual learning for image recognition. In CVPR, 2016
 
@@ -23,5 +24,12 @@ My curated list of CV/ML papers.
 - H. Gao, J. Mao, J. Zhou, Z. Huang, L. Wang, and W. Xu. Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question Answering. In NIPS, 2015.
 - M. Malinowski, M. Rohrbach, and M. Fritz. Ask your neurons: A neural-based approach to answering questions about images. In ICCV, 2015.
 - M. Ren, R. Kiros, and R. Zemel. Exploring models and data for image question answering. In NIPS, 2015.
+
+### Visualizing CNN
+- K. Simonyan, A. Vedaldi, and A. Zisserman. Deep inside convolutional networks: Visualising image classification models and saliency maps. CoRR, abs/1312.6034, 2013.
+- J. T. Springenberg, A. Dosovitskiy, T. Brox, and M. A. Riedmiller. Striving for Simplicity: The All Convolutional Net. CoRR, abs/1412.6806, 2014.
+- M. D. Zeiler and R. Fergus. Visualizing and understanding convolutional networks. In ECCV, 2014.
+- C. Gan, N. Wang, Y. Yang, D.-Y. Yeung, and A. G. Hauptmann. Devnet: A deep event network for multimedia event detection and evidence recounting. In CVPR, 2015.
+- A. Mahendran and A. Vedaldi. Salient deconvolutional networks. In European Conference on Computer Vision, 2016. (Comparison Report)
 
 ## Machine Learning
