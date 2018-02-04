@@ -32,4 +32,9 @@ My curated list of CV/ML papers.
 - C. Gan, N. Wang, Y. Yang, D.-Y. Yeung, and A. G. Hauptmann. Devnet: A deep event network for multimedia event detection and evidence recounting. In CVPR, 2015.
 - A. Mahendran and A. Vedaldi. Salient deconvolutional networks. In European Conference on Computer Vision, 2016. (Comparison Report)
 
+### Deeper representations in CNN capture higher-level visual constructs
+- Y.Bengio,A.Courville,andP.Vincent.Representationlearning:A review and new perspectives. IEEE transactions on pattern analysis and machine intelligence, 35(8):1798–1828, 2013
+- A. Mahendran and A. Vedaldi. Visualizing deep convolutional neural networks using natural pre-images. International Journal of Computer
+Vision, pages 1–23, 2016.
+
 ## Machine Learning
